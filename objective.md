@@ -4,7 +4,7 @@
 This project implements a basic Invoice Payment Reminder system using JavaScript, HTML, and CSS. It features dark mode toggle, form validation for adding invoices, a modal for adding invoices, notifications, and API integration to fetch and display user data as invoice information. Primitive type handling, control flow, error handling, array and object manipulation, and function usage are demonstrated.  It utilizes Bootstrap for styling and modals.
 
 ## Output
-<iframe src="https://github.com/niat-web/Invoice_Payment_Reminder" height="1000" width="300" title="Invoice_Payment_Reminder"></iframe>
+<iframe src="https://niat-web.github.io/Invoice_Payment_Reminder/" height="1000" width="300" title="Invoice_Payment_Reminder"></iframe>
 
 ## Project Requirements
 **Technologies:** JavaScript, HTML, CSS, Bootstrap
